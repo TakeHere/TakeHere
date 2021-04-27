@@ -1,5 +1,4 @@
-# 👋 Hello world ! Takehere here
-
+# 👋 Hello there ! It's Takehere
 I'm a french developer that codes minecraft plugins for servers in java with the spigot API. I'm also one of the owner of a developer discord server called CodeMc Group. Learn more about that later.
 
 # 📝Stats
