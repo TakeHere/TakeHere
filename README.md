@@ -10,7 +10,6 @@ I'm a french developer that codes minecraft plugins for servers in java with the
 # 📡CodeMc Group Discord
 CodeMc group is a Discord server that serves as a platform for developers. It purpose is to bring together beginners and experienced developers in order to be able to help each other
 
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.gg/YXrXpCspT4">
+  <img align="left" alt="Codemc Group Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-<a href="https://discord.gg/YXrXpCspT4"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
