@@ -2,8 +2,9 @@
 I'm a french developer that makes minecraft plugins for servers and games/frameworks in java. I'm also one of the owner of a developer discord server called CodeMC Group. Learn more about that later.
 
 # 📝Stats
-[![Takehere 's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Takehere_'s Github Stats](https://github-readme-stats.vercel.app/api?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Takehere's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Takehere's Github Stats](https://github-readme-stats.vercel.app/api?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Takehere's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Takehere)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 📡CodeMC Group Discord
