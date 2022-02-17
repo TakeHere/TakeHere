@@ -5,7 +5,7 @@ I'm a french developer that makes minecraft plugins for servers and games/framew
 [![Takehere's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Takehere's Github Stats](https://github-readme-stats.vercel.app/api?username=takehere&show_icons=true&hide_border=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/14647161-841a-4fda-9071-4a68951f208c.svg)
+[![wakatime](https://wakatime.com/badge/user/14647161-841a-4fda-9071-4a68951f208c.svg)](https://wakatime.com/@14647161-841a-4fda-9071-4a68951f208c)
 
 # 📡CodeMC Group Discord
 CodeMC group is a Discord server that serves as a platform for developers. It purpose is to bring together beginners and experienced developers in order to be able to help each other
