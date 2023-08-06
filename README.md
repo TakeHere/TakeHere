@@ -14,9 +14,6 @@
   I am a French developer who enjoys taking challenges and creating new things. <br>My goal is to engage in all aspects of development and engineering.
 </p> 
 
-<br>
-<br>
-
 ## 💼 Skills
 
 <table align="center">
